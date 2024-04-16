@@ -31,7 +31,10 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       
+```
+Developed By: AJITH KUMAR A
+Reg No: 212223230009
+```
 ```python
 import pandas as pd
 df=pd.read_csv("/content/Encoding Data.csv")
